@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomArcProgressBar">
+        <attr name="outer_circle_color" format="color" />
+        <attr name="inner_circle_color" format="color" />
+        <attr name="inner_circle_bar_colors" format="color" />
+        <attr name="outer_circle_shadow_visibility" format="enum" />
+        <attr name="outer_circle_shadow_color" format="color" />
+        <attr name="circle_stroke_width" format="float" />
+    </declare-styleable>
+</resources>
